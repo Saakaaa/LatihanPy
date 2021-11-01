@@ -12,5 +12,5 @@
 	<p> print ("Keliling Lingkaran \t=", keliling) </p>
 
 Ini Adalah Hasilnya
-[gambar](Screenshot/SSlingkaran.png)
+[gambar](SSlingkaran.png)
 
